@@ -1,0 +1,2 @@
+rootProject.name = "hilt_template"
+include ':app'
